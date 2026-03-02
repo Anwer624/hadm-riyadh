@@ -1,27 +1,26 @@
 {
   "name": "مقاول هدم مباني بالرياض | شركة هدم ",
   "shortName": "QUIET",
-  "established": "2019",
-  "phone": "212-555-0147",
-  "email": "hello@quietbar.nyc",
+  "established": "2026",
+  "phone": "0573274174",
+  "email": "anllmiw-1h@gmail.com",
   "address": {
-    "full": "147 Mulberry Street, New York, NY 10013",
-    "short": "147 Mulberry St, NYC",
-    "crossStreets": "between Grand & Hester"
+    "full": "الرياض، المملكة العربية السعودية",
+    "short": "sa حي العزيزية،الرياض",
+    "crossStreets": ""
   },
   "coordinates": {
     "lat": 40.7185,
     "lng": -73.9975
   },
   "openingHours": {
-    "weekday": "Mon – Thu: 5:00 PM – 1:00 AM",
-    "weekend": "Fri – Sun: 3:00 PM – 2:00 AM",
+    "weekday": "11:00 PM – 7:00 AM السبت – الجمعة",
     "holiday": null
   },
-  "tagline": "A warm corner in the city. Good drinks, better company.",
+  "tagline": "معدات هدم حديثة وخبرة بالهدم والحفر.",
   "menu": [
     {
-      "category": "Drafts",
+      "category": "هدم مباني",
       "items": [
         { "name": "House Pilsner", "description": "Crisp, clean, local", "badge": null },
         { "name": "Brooklyn Lager", "description": "Amber Vienna-style", "badge": null },
@@ -30,7 +29,7 @@
       ]
     },
     {
-      "category": "Wines",
+      "category": "هدم فلل",
       "items": [
         { "name": "House Red", "description": "Spanish Garnacha", "badge": null },
         { "name": "House White", "description": "Italian Pinot Grigio", "badge": null },
@@ -39,7 +38,7 @@
       ]
     },
     {
-      "category": "Spirits",
+      "category": "هدم تجاري",
       "items": [
         { "name": "Quiet Old Fashioned", "description": "Bourbon, bitters, orange", "badge": "featured" },
         { "name": "Negroni", "description": "Gin, Campari, sweet vermouth", "badge": null },
